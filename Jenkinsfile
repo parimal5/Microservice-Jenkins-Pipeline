@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying auth-service'
+                echo 'Deploying auth-service to k8s'
                 // Add your deployment commands for auth service
             }
         }
