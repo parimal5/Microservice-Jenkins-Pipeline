@@ -1,1 +1,1 @@
-This is the auth-service
+This is the payment-service
